@@ -1,16 +1,31 @@
-# chat_app
+# 🔐 CHAT APPLICATION
 
-A new Flutter project.
+A beginner-friendly Flutter app that demonstrates email & password authentication using Firebase. This project provides clean UI pages for signing in, signing up, and signing out, making it a great starting point for learning how to integrate Firebase Auth in Flutter.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- ✅ Email & Password Sign Up
+- 🔓 Email & Password Sign In
+- 🚪 Sign Out
+- 📱 Simple and Clean UI
+- ⚠️ Input Validation and Error Messages
 
-A few resources to get you started if this is your first Flutter project:
+## 📷 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+- Flutter SDK
+- Firebase account
+- Android Studio / VS Code
+- An emulator or real device
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/himaloy007/Sign_In_Sign_Up_Firebase_X_Flutter.git
+   cd Sign_In_Sign_Up_Firebase_X_Flutter
